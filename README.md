@@ -1,8 +1,8 @@
 <h1 align="center">Jaeyoung Kim</h1>
 
-<p align="center">
+<h4 align="center">
   🎯 "Striving to create efficient, scalable, and innovative software solutions!" 🚀 
-</p>
+</h4>
 
 ---
 
