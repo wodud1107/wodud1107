@@ -21,6 +21,7 @@
 ### 🔹 Languages  
 <p align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
@@ -76,6 +77,17 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wodud1107&show_icons=true&theme=dark" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wodud1107&theme=dark" height="150"/>
+</p>
+
+## 📊 Baekjoon Stats
+
+<p align="center">
+  <img src="http://mazassumnida.wtf/api/generate_badge?boj=wodudjava"/>
+  <img src="http://mazandi.herokuapp.com/api?handle=wodudjava&theme=dark"/>
+</p>
+<p align="center">
+  <img src="http://mazassumnida.wtf/api/generate_badge?boj=wodudcpp"/>
+  <img src="http://mazandi.herokuapp.com/api?handle=wodudcpp&theme=dark"/>
 </p>
 
 ---
