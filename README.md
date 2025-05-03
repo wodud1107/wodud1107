@@ -59,6 +59,7 @@
   - Implemented **My Page, Notifications, and Friend List Sorting**
   - Optimized friend list loading using **Provider & Service Pattern**
   - **Tech Stack:** Flutter, Spring Boot, REST API
+  - https://github.com/MinChanJu/BuckTanley
 
 - 🏗 **Spring Boot + LangChain AI Integration**
   - Developing **AI-powered chatbot** with Spring Boot and LangChain  
