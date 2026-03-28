@@ -13,7 +13,7 @@
 </p>
 <p align="center">
   <img src="http://mazassumnida.wtf/api/generate_badge?boj=wodud7992"/>
-  <img src="http://mazandi.herokuapp.com/api?handle=wodudjava&theme=dark"/>
+  <img src="http://mazandi.herokuapp.com/api?handle=wodud7992&theme=dark"/>
 </p>
 <p align="center">
   <img src="http://mazassumnida.wtf/api/generate_badge?boj=wodudjava"/>
