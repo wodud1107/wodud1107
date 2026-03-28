@@ -8,12 +8,16 @@
 ## 📊 Baekjoon Stats
 
 <p align="center">
-  <img src="http://mazassumnida.wtf/api/generate_badge?boj=wodudjava"/>
+  <img src="http://mazassumnida.wtf/api/generate_badge?boj=wodudcpp"/>
+  <img src="http://mazandi.herokuapp.com/api?handle=wodudcpp&theme=dark"/>
+</p>
+<p align="center">
+  <img src="http://mazassumnida.wtf/api/generate_badge?boj=wodud7992"/>
   <img src="http://mazandi.herokuapp.com/api?handle=wodudjava&theme=dark"/>
 </p>
 <p align="center">
-  <img src="http://mazassumnida.wtf/api/generate_badge?boj=wodudcpp"/>
-  <img src="http://mazandi.herokuapp.com/api?handle=wodudcpp&theme=dark"/>
+  <img src="http://mazassumnida.wtf/api/generate_badge?boj=wodudjava"/>
+  <img src="http://mazandi.herokuapp.com/api?handle=wodudjava&theme=dark"/>
 </p>
 
 ---
