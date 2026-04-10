@@ -24,4 +24,4 @@
 
 ## 📫 Contact
 
-📩 **Email:** [wodud7992@gmail.com](mailto:wodud7992@gmail.com)
+📩 **Email:** [wodud7992@naver.com](mailto:wodud7992@naver.com)
